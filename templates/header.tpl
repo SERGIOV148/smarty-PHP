@@ -52,7 +52,7 @@
 			</div>
 		</div>
 		<center>
-			<input type="sumit" name="btn_guardar" value="Guardar" class="btn btn-primary">
+			<input type="sumit" name="btn_guardar" value="Guardar" class="btn btn-danger">
 			<a href="index.php" class="btn btn-danger">Cancelar</a>
 		</center>
 	</form>
