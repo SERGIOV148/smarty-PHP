@@ -60,5 +60,15 @@
 </div>
 </div>
 </div>
+<tr>
+	<td>id</td>
+	<td>Nombre</td>
+	<td>Apellido</td>
+	<td>Identificacion</td>
+	<td>Direccion</td>
+
+
+</tr>
+
 </body>
 </html>
