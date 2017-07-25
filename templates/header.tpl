@@ -47,8 +47,8 @@
 		</div>
 			<div class="from-group">
 			<div class="input-group">
-              <span class="input-group-addon">Contraseña</span>
-              <input type="text" name="con_contrasena" id="con_contrasena" class="form-control" placeholder="contraseña" required> 
+              <span class="input-group-addon">Repetir Contraseña</span>
+              <input type="text" name="con_contrasena" id="con_contrasena" class="form-control" placeholder="Repetir contraseña" required> 
 			</div>
 		</div>
 		<center>
