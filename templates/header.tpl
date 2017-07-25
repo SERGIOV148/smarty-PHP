@@ -11,7 +11,7 @@
 <h1 class="container well">Prueba SMARTY</h1>
 
 <div class="default col-md-9">
-<div class="panel panel-primary">
+<div class="panel panel-danger">
 <div class="panel panel-heading"><center><b>Agregar usuario</b></center></div>
 <div class="panel.body" width="95%">
 	<form name="agregar_usuario" method="post">
