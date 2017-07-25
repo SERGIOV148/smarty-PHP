@@ -8,7 +8,7 @@
 </head>
 <body>
 <div class="container" style="width: 90% ">
-<h1 class="container well">Prueba SMARTY</h1>
+<h1 class="container well">PRUEBA SMARTY</h1>
 
 <div class="default col-md-9">
 <div class="panel panel-danger">
