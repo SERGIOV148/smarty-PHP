@@ -1,0 +1,71 @@
+[33mcommit cd0a3ebb22a6f1b47e7847d51ac6ba21da6a5eaa[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: sergio <svera@micrositios.net>
+Date:   Wed Jul 26 12:00:07 2017 -0500
+
+    se creo y se agrego la base de datos
+
+[33mcommit 26441d90e9eee21d9b22a3ba68ab13543afa4cf1[m
+Author: sergio <svera@micrositios.net>
+Date:   Wed Jul 26 11:48:50 2017 -0500
+
+    se agrego un value para que el usuario no tenga que repetir los datos que a ingresado
+
+[33mcommit f12b2a3d22fff0464c38a02179643505ff7cd85f[m
+Author: sergio <svera@micrositios.net>
+Date:   Wed Jul 26 11:40:31 2017 -0500
+
+    se agrego contraseñas no coinciden
+
+[33mcommit 619c14c05340a55b721de7228b6258f25ae4c61e[m[33m ([m[1;33mtag: v1.2[m[33m)[m
+Author: sergio <svera@microcitios.net>
+Date:   Tue Jul 25 16:35:24 2017 -0500
+
+    Agregar campos para los usuarios
+
+[33mcommit f1505c34792349527fa60fab10debcb31bc31298[m
+Author: sergio <svera@microcitios.net>
+Date:   Tue Jul 25 15:33:47 2017 -0500
+
+    se modifico el nombre por PRUEBA SMARTY
+
+[33mcommit 2066b21b49b91a78c7ff867809da274710b7b4a6[m
+Author: sergio <svera@microcitios.net>
+Date:   Tue Jul 25 15:13:56 2017 -0500
+
+    modificar el usuario.php
+
+[33mcommit 03ae9b5c800cdef58e7d3491942e697d62a057c9[m[33m ([m[1;33mtag: v0.1[m[33m)[m
+Author: sergio <svera@microcitios.net>
+Date:   Tue Jul 25 12:40:53 2017 -0500
+
+    cambi de colores
+
+[33mcommit 85f04b6e5e107a73e5b82b0e179d3964b3594fb1[m
+Author: sergio <svera@microcitios.net>
+Date:   Tue Jul 25 11:57:49 2017 -0500
+
+    conecion a la base de datos
+
+[33mcommit 045f8f0a5f0fa071fd0e309707ae30a36debdf64[m
+Author: sergio <svera@microcitios.net>
+Date:   Tue Jul 25 11:28:16 2017 -0500
+
+    cambiar botones
+
+[33mcommit abebe703f1f61586e79743af724f076a308eac11[m
+Author: sergio <svera@microcitios.net>
+Date:   Tue Jul 25 11:16:46 2017 -0500
+
+    if
+
+[33mcommit 2135cfd8c635673507c7f658e007bcdd1b5fc5a1[m
+Author: sergio <svera@microcitios.net>
+Date:   Tue Jul 25 11:09:12 2017 -0500
+
+    se agrego el metodo POST
+
+[33mcommit 2cfcac9de2029e151c496500595fe1fb7db394f0[m
+Author: sergio <svera@microcitios.net>
+Date:   Tue Jul 25 11:01:58 2017 -0500
+
+    agregamos archivos
