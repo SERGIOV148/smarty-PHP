@@ -15,6 +15,8 @@
 <div class="panel panel-heading"><center><b>Agregar usuario</b></center></div>
 <div class="panel.body" width="95%">
 	<form name="agregar_usuario" method="post">
+
+	{$alerta}
 		<div class="from-group">
 			<div class="input-group">
               <span class="input-group-addon">Nombre</span>
@@ -53,7 +55,7 @@
 		</div>
 		<center>
 			<input type="sumit" name="btn_guardar" value="Guardar" class="btn btn-danger">
-			<a href="index.php" class="btn btn-danger">Cancelar</a>
+			<a href="index.php" class="btn btn-danger">Cancelar</a><
 		</center>
 	</form>
 </div>
