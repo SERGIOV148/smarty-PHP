@@ -1,6 +1,6 @@
-create database prueba_smarty;
-	use prueba_smarty;
-	create table usuario (
+create database svera_pruebas;
+	use svera_pruebas;
+	create table usuarios (
 	 id char(35) not null,
      nombre varchar(35) not null,
      apellido varchar(35) not null,

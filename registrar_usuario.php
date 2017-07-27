@@ -10,7 +10,7 @@ $con_contrasena=$_POST['con_contrasena'];
 
  if ($contrasena!=$con_contrasena) {
    $alerta= "<div class='alert alter-danger'role='alert'>las contraseñas no coinciden</div>"
-   $smarty->assign("alerta,$alerta");
+  
  }else{
      include("config.ini.php");
 
@@ -27,6 +27,6 @@ $con_contrasena=$_POST['con_contrasena'];
     	$alerta= "<div class='alert alter-danger'role='alert'>no se regitro</div>"
     }
  }
-
+$smarty->assign("alerta,$alerta");
 $smarty->display("header.tpl");
  ?>
